@@ -16,10 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: (https://tsimeonov.github.io/Intro-Section-with-Dropdown-Navigation/)
-
-## My process
 
 ### Built with
 
